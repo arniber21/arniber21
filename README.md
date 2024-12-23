@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arnab Ghosh
 
-I'm an incoming Math/CS student at Cornell University. Here is where you'll find the projects that I am working on and some projects that I have completed before. 
+I'm a freshman at Cornell University, studying Math/CS. Here is where you'll find the projects that I am working on. 
 
-Feel free to contact me at arnabghosh819@gmail.com :)
+Feel free to contact me at arnabcare21@gmail.com :)
 
 
